@@ -1,0 +1,6 @@
+{
+  "name": "purescript-undefined",
+  "set": "master",
+  "source": "https://github.com/bklaric/package-sets.git",
+  "depends": []
+}
