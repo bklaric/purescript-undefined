@@ -1,6 +1,10 @@
 {
   "name": "purescript-undefined",
   "homepage": "https://github.com/bklaric/purescript-undefined",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bklaric/purescript-undefined.git"
+  },
   "authors": [
     "Branimir Klarić <branimir.klaric.bk@gmail.com>"
   ],
