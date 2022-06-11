@@ -1,3 +1,1 @@
-"use strict";
-
-exports.undefined = undefined
+export const undefined = undefined
